@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "NO. NEW YORK (Michael Zimmerling Mix)",
+  "base_artist": "Boowy",
+  "createdAt": "2025-12-14T06:06:43.291973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No. New York (Michael Zimmerling Mix)",
+      "artist": "Boowy",
+      "has_synced": true,
+      "path": "select/01_No._New_York_(Michael_Zimmerling_Mix)_Boowy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO. NEW YORK [MICHAEL ZIMMERLING MIX]",
+      "artist": "BOOWY",
+      "has_synced": false,
+      "path": "select/pl_01_NO._NEW_YORK_[MICHAEL_ZIMMERLING_MIX]_BOOWY.txt"
+    }
+  ]
+}
