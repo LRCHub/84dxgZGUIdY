@@ -1,0 +1,47 @@
+# Boowy – NO. NEW YORK (Michael Zimmerling Mix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.94] シャワーを浴びて WOW WOW コロンをたたき
+[00:12.33] ウインクひとつで WOW WOW この世を渡る
+[00:23.83] 
+[00:23.28] SHE'S A BEAUTY FACE WOW WOW
+[00:26.28] SHE'S A BEAUTY FACE
+[00:28.71] 女神のような その顔で
+[00:34.74] SHE'S A BEAUTY FACE WOW WOW
+[00:37.71] SHE'S A BEAUTY FACE
+[00:41.48] 花をちぎる
+[00:43.98] 
+[00:47.16] メイクをきめて WOW WOW ドレスをまとい
+[00:58.58] 街角に立ち WOW WOW 男を誘う
+[01:07.58] 
+[01:09.37] SHE'S A BEAUTY FACE WOW WOW
+[01:12.33] SHE'S A BEAUTY FACE
+[01:14.81] 女神のような その顔で
+[01:20.93] SHE'S A BEAUTY FACE WOW WOW
+[01:23.81] SHE'S A BEAUTY FACE
+[01:27.53] 花をちぎる
+[01:30.03] 
+[01:32.64] NEW YORK NEW YORK
+[01:35.45] アイツを愛したら
+[01:38.34] NEW YORK NEW YORK
+[01:41.21] 星になるだけさ
+[01:44.71] 
+[02:53.47] SHE'S A BEAUTY FACE WOW WOW
+[02:56.29] SHE'S A BEAUTY FACE
+[02:58.86] 女神のような その顔で
+[03:04.79] SHE'S A BEAUTY FACE WOW WOW
+[03:07.67] SHE'S A BEAUTY FACE
+[03:11.36] 花をちぎる
+[03:13.86] 
+[03:16.38] NEW YORK NEW YORK
+[03:19.25] アイツを愛したら
+[03:22.23] NEW YORK NEW YORK
+[03:25.02] 星になるだけ
+[03:28.02] 
+[03:27.88] NEW YORK NEW YORK
+[03:30.98] アイツを愛したら
+[03:33.65] NEW YORK NEW YORK
+[03:36.67] 星になるだけさ
+```
